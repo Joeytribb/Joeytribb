@@ -12,7 +12,8 @@
 # 👨🏻‍💻Overview of Projects
 
 ## 📈 1) HOPE
-      -A data-driven stock screener that ranks stocks by their probability of achieving a minimum 1% positive return on the following trading day.
+
+###A data-driven stock screener that ranks stocks by their probability of achieving a minimum 1% positive return on the following trading day.
 
 
 ### 🔍 Results Overview
