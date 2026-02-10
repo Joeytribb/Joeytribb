@@ -15,11 +15,12 @@
 
 ## 📈 1) HOPE
 
-### A data-driven stock screener that ranks stocks by their probability of achieving a minimum 1% return on the following trading day.
+#### A data-driven stock screener that ranks stocks by their probability of achieving a minimum 1% return on the following trading day.
 
 ### 🔍 Results Overview
+This figure illustrates the profitability of  thes strategy by trading the single most probable stock each day using a fixed take-profit and stop-loss of ±1%.
 
-The figure illustrates the profitability of  thes strategy by trading the single most probable stock each day using a fixed take-profit and stop-loss of ±1%.
+
 <img src="results_overview.png" width="800"/>
 
 
