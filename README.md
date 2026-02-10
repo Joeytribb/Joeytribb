@@ -16,7 +16,7 @@
 
 
 ### 🔍 Results Overview
-<img src="assets/result_overview.png" width="800"/>
+<img src="assets/results_overview.png" width="800"/>
 
 
 
