@@ -1,11 +1,12 @@
-# 👨‍💻 [Your Name/Handle] 
+# 👨‍💻 Iniyan Andrews Joseph
 ### AI Researcher | Financial ML & Multimodal Agents
+👨‍💻 I’m a developer exploring how AI can automate complex, creative, and decision-intensive workflows — from 📈 quantitative trading systems and 🎮 game environments to 💬 conversational agents.
 
-I investigate the intersection of **Machine Learning** and **Complex Systems**, with a focus on **Reinforcement Learning** for autonomous decision-making and **Multimodal LLMs** for human-computer interaction. My work prioritizes **interpretable theoretical rigor** over black-box complexity.
+My work sits at the intersection of Machine Learning and Complex Systems, with particular emphasis on Reinforcement Learning for autonomous decision-making and Multimodal LLMs for interactive systems. I build projects from scratch and iterate aggressively, combining theoretical rigor, interpretability, and systems-level thinking to move beyond black-box models toward robust, deployable intelligence.
 
 ---
 
-## 🎯 Selected Research
+## 🎯 Research
 
 ### 📈 [HOPE - Probabilistic Stock Screening System](https://github.com/Joeytribb/HOPE)
 > **Question**: Can simple linear models outperform Deep Learning in short-term volatility prediction?
@@ -36,7 +37,7 @@ An attempt to build a privacy-first, local multimodal agent.
 
 ---
 
-## 🧪 Experimental & Engineering Projects
+## 🧪 Current Experimental & Engineering Projects
 
 *   **[TMgo - Deep-RL Autonomous Racing](https://github.com/Joeytribb/TMgo)**: Training a DQN agent to master *Trackmania Nations Forever* using raw pixel inputs and Lidar sensors. Demonstrates complex continuous control.
 *   **[Indus_valley - Archeo-Vision Clustering](https://github.com/Joeytribb/Indus_valley)**: Utilizing unsupervised clustering (K-Means) to categorize and analyze ancient scripts from the Indus Valley civilization.
