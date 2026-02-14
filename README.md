@@ -29,10 +29,13 @@ End-to-end reinforcement learning agent trained on 1-hour Bitcoin OHLCV data to 
 - **Sharpe Ratio:** 1.44  
 - **Win Rate:** 76%
 
+
+
+*   ![Agent Profile](./assets/bithax_profile.png)
+
 ### 🛠 Tech Stack
 PyTorch · Stable-Baselines3 · Gymnasium · Pandas
 
-*   ![Agent Profile](./assets/bithax_profile.png)
 
 
 ### 👁️ [Jaguu - Multimodal LLM Assistant](https://github.com/Joeytribb/Jaguu)
