@@ -19,7 +19,7 @@ A comparative analysis of ML architectures for predicting short-term alpha in hi
 *   ![Performance](./assets/hope_results.png)
 
 
-## 2) 🧠 [Bithax - Deep RL High-Frequency Trading](https://github.com/Joeytribb/bithax)
+## 2) 🧠 [Bithax - Deep RL High-Frequency Trading](https://github.com/Joeytribb/Bithax-RL-trader)
 > PPO-based autonomous agent for Bitcoin HFT with 0.05% fee constraints.
 
 End-to-end reinforcement learning agent trained on 1-hour Bitcoin OHLCV data to learn dynamic position sizing across market regimes.
