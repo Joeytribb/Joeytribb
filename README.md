@@ -8,7 +8,8 @@ My work sits at the intersection of Machine Learning and Complex Systems, with p
 
 ## 🎯 Research
 
-### 📈 [HOPE - Probabilistic Stock Screening System](https://github.com/Joeytribb/HOPE)
+
+## 1) 📈 [HOPE - Probabilistic Stock Screening System](https://github.com/Joeytribb/HOPE)
 > **Question**: Can simple linear models outperform Deep Learning in short-term volatility prediction?
 
 A comparative analysis of ML architectures for predicting short-term alpha in high-volatility markets.
@@ -16,22 +17,11 @@ A comparative analysis of ML architectures for predicting short-term alpha in hi
 *   **Tech Stack**: `scikit-learn`, `pandas`, `Linear Regression`, `LSTM`.
 *   ![Performance](./assets/hope_results.png)
 
-### 🧠 [Bithax - Deep RL High-Frequency Trading](https://github.com/Joeytribb/bithax)
+
+## 2) 🧠 [Bithax - Deep RL High-Frequency Trading](https://github.com/Joeytribb/bithax)
 > PPO-based autonomous agent for Bitcoin HFT with 0.05% fee constraints.
 
-## 📈 Continuous Control RL Agent — Bitcoin (1H)
-
 End-to-end reinforcement learning agent trained on 1-hour Bitcoin OHLCV data to learn dynamic position sizing across market regimes.
-
-### 🧠 Architecture
-- **Algorithm:** Proximal Policy Optimization (PPO)  
-- **Design:** Separate Actor–Critic heads  
-- **Action Space:** Continuous (position sizing)
-
-### ⚙️ Key Design Choices
-- Drawdown-penalized reward shaping  
-- Transaction costs integrated into value estimation  
-- Regime-aware exposure (avoids low-confidence volatility)
 
 ### 📊 Performance (~2.5-Year Backtest)
 - **Total Return:** 371%  
