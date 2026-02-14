@@ -64,5 +64,5 @@ An attempt to build a privacy-first, local multimodal agent.
 ---
 
 ### 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/iniyandrews) 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-gray?style=for-the-badge&logo=google-scholar)](https://scholar.google.com)
