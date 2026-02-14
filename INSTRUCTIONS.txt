@@ -1,0 +1,25 @@
+# How to Publish Your Profile
+
+1.  **Create the Repository on GitHub**:
+    *   Go to https://github.com/new
+    *   Repository name: **Joeytribb** (Must match your username exactly!)
+    *   Description: "My Research Profile"
+    *   Public: **Yes**
+    *   Initialize with README: **No** (You already have one)
+
+2.  **Push this Folder**:
+    Open a terminal in this folder (`Joeytribb_Profile`) and run:
+
+    ```bash
+    git init
+    git add .
+    git commit -m "Initial commit: Research Profile"
+    git branch -M main
+    git remote add origin https://github.com/Joeytribb/Joeytribb.git
+    git push -u origin main
+    ```
+
+3.  **Verify Links**:
+    *   I have set the project links to `https://github.com/Joeytribb/PROJECT_NAME`.
+    *   Ensure your other repositories (`HOPE`, `bithax`, `Jaguu`, etc.) are public and named exactly as they are in the links.
+    *   If a repo has a different name (e.g., `my-trading-bot` instead of `Ohh`), edit the `README.md` here to match the URL.
