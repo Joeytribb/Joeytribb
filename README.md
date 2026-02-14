@@ -17,30 +17,28 @@ A comparative analysis of ML architectures for predicting short-term alpha in hi
 *   ![Performance](./assets/hope_results.png)
 
 ### 🧠 [Bithax - Deep RL High-Frequency Trading](https://github.com/Joeytribb/bithax)
-> **System**: PPO-based autonomous agent for Bitcoin HFT with 0.05% fee constraints.
+> PPO-based autonomous agent for Bitcoin HFT with 0.05% fee constraints.
+
+## 📈 Continuous Control RL Agent — Bitcoin (1H)
 
 End-to-end reinforcement learning agent trained on 1-hour Bitcoin OHLCV data to learn dynamic position sizing across market regimes.
 
-Architecture
-PPO (separate Actor–Critic heads) with a continuous action space.
+### 🧠 Architecture
+- **Algorithm:** Proximal Policy Optimization (PPO)  
+- **Design:** Separate Actor–Critic heads  
+- **Action Space:** Continuous (position sizing)
 
-Key Design Choices
+### ⚙️ Key Design Choices
+- Drawdown-penalized reward shaping  
+- Transaction costs integrated into value estimation  
+- Regime-aware exposure (avoids low-confidence volatility)
 
-Drawdown-penalized reward shaping
+### 📊 Performance (~2.5-Year Backtest)
+- **Total Return:** 371%  
+- **Sharpe Ratio:** 1.44  
+- **Win Rate:** 76%
 
-Transaction costs integrated into value estimation
-
-Regime-aware exposure (sits out low-confidence volatility)
-
-Performance (~2.5-year backtest)
-
-371% total return
-
-Sharpe ratio: 1.44
-
-Win rate: 76%
-
-Tech Stack
+### 🛠 Tech Stack
 PyTorch · Stable-Baselines3 · Gymnasium · Pandas
 
 *   ![Agent Profile](./assets/bithax_profile.png)
