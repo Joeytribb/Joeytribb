@@ -1,6 +1,7 @@
 # 👨‍💻 Iniyan Andrews Joseph
-### AI Researcher | Financial ML & Multimodal Agents
-👨‍💻 I’m a developer exploring how AI can automate complex, creative, and decision-intensive workflows — from 📈 quantitative trading systems and 🎮 game environments to 💬 conversational agents.
+## AI Researcher | Financial ML & Multimodal Agents
+
+### 👨‍💻 I’m a developer exploring how AI can automate complex, creative, and decision-intensive workflows — from 📈 quantitative trading systems and 🎮 game environments to 💬 conversational agents.
 
 My work sits at the intersection of Machine Learning and Complex Systems, with particular emphasis on Reinforcement Learning for autonomous decision-making and Multimodal LLMs for interactive systems. I build projects from scratch and iterate aggressively, combining theoretical rigor, interpretability, and systems-level thinking to move beyond black-box models toward robust, deployable intelligence.
 
