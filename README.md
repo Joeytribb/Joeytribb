@@ -9,9 +9,9 @@ I prioritize rigorous out-of-sample fragility analysis and empirical slippage mo
 
 ## 🔬 EMPIRICAL RESEARCH PORTFOLIO
 
-### 1. Deep RL & Market Microstructure Edge
+### 1. Deep Reinforcement Learning on High-Frequency Limit Order Books
 **Repository:** [`DeepRL_Microstructure`](./DeepRL_Microstructure)
-*   **Abstract:** An empirical investigation into the extraction of generalized alpha from Level 2 Order Books using Deep Reinforcement Learning (Proximal Policy Optimization).
+*   **Abstract:** An empirical framework for applying Deep Reinforcement Learning (Proximal Policy Optimization) to extract generalized alpha from Level 2 Order Books.
 *   **Findings:** The neural architecture successfully identified a structural imbalance edge (+10.34% OOS). However, thermodynamic sensitivity analysis proved this edge decays linearly against centralized exchange taker fees, requiring sub-3 bps institutional execution tiers or DeFi mempool latency advantages to remain profitable.
 
 ### 2. Polymarket Asynchronous Execution Engine (Live Infrastructure)
