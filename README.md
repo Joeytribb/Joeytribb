@@ -8,14 +8,14 @@ Welcome to my research portfolio. My work focuses on the intersection of Continu
 
 ---
 
-## 🔬 Flagship Quantitative Research
+## 🔬 Selected Research Projects
 
 ### 1. [DeepRL Limit Order Book Dynamics](https://github.com/Joeytribb/DeepRL_Microstructure)
 *Project Thermic: Thermodynamic Decay of Alpha in Market-Making Agents*
 - **The Problem:** Neural networks routinely fail in high-frequency trading due to non-stationarity and theoretical zero-latency assumptions.
 - **The Methodology:** Engineered an execution-penalized Markov Decision Process (MDP). Enforced strict state-space stationarity using Augmented Dickey-Fuller (ADF) proofs on Order Book Imbalance (OBI) and Fractional Spread.
 - **The Results:** Achieved a **Deflated Sharpe Ratio > 2.0** under maker-rebated conditions, statistically validated through Embargoed Walk-Forward Optimization to guarantee zero temporal data leakage. 
-- **Read the Paper:** [Oxford Tier Pre-Print (PDF)](./portfolio/Quantitative_Research_Portfolio.pdf)
+- **Read the Paper:** [Research Pre-Print (PDF)](./portfolio/Quantitative_Research_Portfolio.pdf)
 
 ### 2. [Bithax: High-Frequency Digital Asset Trading](https://github.com/Joeytribb/bithax)
 *Master's Thesis: PPO Agents in Continuous 42-Dimensional State Spaces*
