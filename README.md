@@ -10,12 +10,12 @@ Welcome to my research portfolio. My work focuses on the intersection of Continu
 
 ## 🔬 Selected Research Projects
 
-### 1. [DeepRL Limit Order Book Dynamics](https://github.com/Joeytribb/DeepRL_Microstructure)
-*Project Thermic: Thermodynamic Decay of Alpha in Market-Making Agents*
-- **The Problem:** Neural networks routinely fail in high-frequency trading due to non-stationarity and theoretical zero-latency assumptions.
-- **The Methodology:** Engineered an execution-penalized Markov Decision Process (MDP). Enforced strict state-space stationarity using Augmented Dickey-Fuller (ADF) proofs on Order Book Imbalance (OBI) and Fractional Spread.
-- **The Results:** Achieved a **Deflated Sharpe Ratio > 2.0** under maker-rebated conditions, statistically validated through Embargoed Walk-Forward Optimization to guarantee zero temporal data leakage. 
-- **Read the Paper:** [Research Pre-Print (PDF)](./portfolio/Quantitative_Research_Portfolio.pdf)
+### 1. [Generative LOB Simulator (Transformer)](https://github.com/Joeytribb/Generative_LOB_Simulator)
+*Autoregressive Modeling of Market-By-Order Limit Order Books*
+- **The Problem:** Traditional quantitative finance struggles to generate synthetic LOB data because the order book is governed by strict physical matching rules and complex microstructural stylized facts.
+- **The Methodology:** Engineered a differential data engine to tokenize continuous L3 market events. Trained an Autoregressive Causal Transformer (GPT-style) to learn the Markovian transitions and joint probability distributions of the LOB.
+- **The Results:** Successfully proved the Transformer learned the underlying market physics by synthesizing 10,000 empirical events that perfectly replicated the fat-tailed Pareto Volume distribution (Stylized Facts).
+- **Read the Codebase:** [Generative_LOB_Simulator](https://github.com/Joeytribb/Generative_LOB_Simulator)
 
 ### 2. [Bithax: High-Frequency Digital Asset Trading](https://github.com/Joeytribb/bithax)
 *Master's Thesis: PPO Agents in Continuous 42-Dimensional State Spaces*
