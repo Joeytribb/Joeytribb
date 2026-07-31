@@ -16,7 +16,7 @@ I am a strong advocate for **Open Science** and **Agentic Research Engineering**
 
 ---
 
-## 🚀 Key Open-Source Projects
+## 🚀 Active Open-Source Repositories
 
 ### 1. [Generative-LOB-Transformer](https://github.com/Joeytribb/Generative_LOB_Simulator)
 *Autoregressive Causal World Model for Market-By-Order Limit Order Books*
@@ -37,10 +37,12 @@ I am a strong advocate for **Open Science** and **Agentic Research Engineering**
 - **Architecture:** Connected visual encoders (vision transformers) to Llama3 decoders for zero-shot visual question answering, spatial scene understanding, and real-time reasoning.
 - 📁 **Repository:** [Project Jaguu](https://github.com/Joeytribb/Jaguu)
 
-### 4. [Open-IVC (Spatial AI & Multimodal Knowledge Graphs)](https://github.com/Joeytribb/Indus_valley)
-*Computational Archaeology & 3D Spatial Mapping for Indus Valley Artifacts*
-- **Methodology:** Unsupervised feature clustering and spatial AI pipelines for ancient seal epigraphy, artifact reconstruction, and trade provenance mapping.
-- 📁 **Repository:** [Indus Valley Research](https://github.com/Joeytribb/Indus_valley)
+---
+
+## 🔮 Upcoming Research Initiatives (In Proposal Phase)
+
+- 🏺 **Open-IVC (Computational Archaeology & 3D Spatial AI):** Developing multimodal knowledge graphs and 3D Neural Radiance Fields (NeRFs) / Gaussian Splatting for spatial mapping, artifact reconstruction, and epigraphic analysis of ancient civilizations like the Indus Valley.
+- 🤟 **Multimodal Sign Language Live Translation:** Fusing spatial video encoders with autoregressive sequence decoders for real-time continuous sign language translation.
 
 ---
 
