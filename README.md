@@ -41,8 +41,8 @@ I am a strong advocate for **Open Science** and **Agentic Research Engineering**
 
 ## 🔮 Upcoming Research Initiatives (In Proposal Phase)
 
-- 🏺 **Open-IVC (Computational Archaeology & 3D Spatial AI):** Developing multimodal knowledge graphs and 3D Neural Radiance Fields (NeRFs) / Gaussian Splatting for spatial mapping, artifact reconstruction, and epigraphic analysis of ancient civilizations like the Indus Valley.
-- 🤟 **Multimodal Sign Language Live Translation:** Fusing spatial video encoders with autoregressive sequence decoders for real-time continuous sign language translation.
+- 🏺 **Open-IVC (Computational Archaeology & 3D Spatial AI):** 
+- 🤟 **Multimodal Sign Language Live Translation:**
 
 ---
 
