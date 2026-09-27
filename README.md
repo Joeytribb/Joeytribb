@@ -5,8 +5,7 @@
   <em>Focus: Embodied AI, Biomechanical Digital Twins, Geometric Deep Learning & Foundation World Models</em>
 </p>
 
-[![Portfolio Dossier](https://img.shields.io/badge/Research%20Portal-Sign%20Language%20Kinematics-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joeytribb.github.io/sign-language-kinematics/)
-[![Live 3D Engine](https://img.shields.io/badge/Live%20WebGL%20Demo-60%20FPS%20Engine-059669?style=for-the-badge&logo=three.js&logoColor=white)](https://joeytribb.github.io/sign-language-kinematics/04_Procedural_Engine_PoC/anatomical_hand.html)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iniyandrews-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniyandrews)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iniyandrews@gmail.com)
 
@@ -14,7 +13,7 @@
 
 ## 🔬 About Me & Research Vision
 
-I am an AI research engineer with an **M.Sc. in Computer Science (Data Science)** from the National Institute of Electronics & Information Technology (NIELIT), Calicut. Currently, I am applying for doctoral studies at **Aalto University** and the **European Laboratory for Learning and Intelligent Systems (ELLIS) Institute Finland** (Autumn 2026 Doctoral Call).
+I am an AI research engineer with an **M.Sc. in Computer Science (Data Science)** from the National Institute of Electronics & Information Technology (NIELIT), Calicut. 
 
 My research operates at the intersection of **continuous physical dynamics and discrete foundation language models**:
 * **Physical & Embodied AI:** Grounding neural generative models on explicit musculoskeletal manifolds, inverse kinematics (IK), and non-linear topological constraints to eliminate hallucinations.
