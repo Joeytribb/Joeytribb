@@ -26,6 +26,12 @@ I build deep learning architectures, continuous control systems, and generative 
 
 ## 🚀 Featured Open-Source Projects
 
+### 🤟 [Sign Language Kinematics](https://github.com/Joeytribb/sign-language-kinematics)
+*Biomechanical Digital Twin & Kinematic Simulation Environment*
+* **Overview:** Web-based 3D kinematic engine exploring physical constraints, closed-form inverse kinematics, and articulated motion synthesis.
+* **Capabilities:** Real-time client-side WebGL simulation, analytical limb parameterization, and collision-aware articulation.
+* 🌐 **Interactive Portal:** [joeytribb.github.io/sign-language-kinematics](https://joeytribb.github.io/sign-language-kinematics/) | 📁 **Repository:** [Joeytribb/sign-language-kinematics](https://github.com/Joeytribb/sign-language-kinematics)
+
 ### 📊 [Generative-LOB-Transformer](https://github.com/Joeytribb/Generative_LOB_Simulator)
 *Autoregressive Causal World Model for Market-By-Order Dynamics*
 * **Overview:** Level 3 (L3) limit order book data is often locked behind commercial paywalls, creating a data-scarcity bottleneck for continuous control agents.
@@ -39,12 +45,6 @@ I build deep learning architectures, continuous control systems, and generative 
 * **Innovation:** Formulated dense reward objectives penalizing second-order volatility and execution friction to prevent policy collapse under regime shifts.
 * **Outcomes:** Achieved superior out-of-sample risk-adjusted returns and drawdown constraints compared to standard baseline algorithms.
 * 📁 **Repository:** [Joeytribb/bithax](https://github.com/Joeytribb/bithax)
-
-### 🤟 [Sign Language Kinematics](https://github.com/Joeytribb/sign-language-kinematics)
-*Biomechanical Digital Twin & Kinematic Simulation Environment*
-* **Overview:** Web-based 3D kinematic engine exploring physical constraints, closed-form inverse kinematics, and articulated motion synthesis.
-* **Capabilities:** Real-time client-side WebGL simulation, analytical limb parameterization, and collision-aware articulation.
-* 🌐 **Interactive Portal:** [joeytribb.github.io/sign-language-kinematics](https://joeytribb.github.io/sign-language-kinematics/) | 📁 **Repository:** [Joeytribb/sign-language-kinematics](https://github.com/Joeytribb/sign-language-kinematics)
 
 ### 👁️ [Project Jaguu](https://github.com/Joeytribb/Jaguu)
 *Privacy-Preserving Vision-Language Assistant*
